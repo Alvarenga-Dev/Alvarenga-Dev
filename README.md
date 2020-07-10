@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá 👋
+
+- 👨🏻‍💻 Jr Android Developer
+- 🎈 Criador de conteúdo no instagram:[@Alvarenga.dev](https://www.instagram.com/alvarenga.dev/)
+- 🙋🏻‍♂️ Meu LinkedIn: [Lucas Alvarenga](https://www.linkedin.com/in/llucasallvarenga/)
+- 📪 E-mail de contato: llucasallvarenga@gmail.com
 
 <!--
 **Alvarenga-Dev/Alvarenga-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
