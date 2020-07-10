@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá ✌🏻
 
 - 👨🏻‍💻 Jr Android Developer
 - 🎈 Criador de conteúdo no instagram:[@Alvarenga.dev](https://www.instagram.com/alvarenga.dev/)
