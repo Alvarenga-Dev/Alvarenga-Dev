@@ -1,7 +1,20 @@
-### Olá ✌🏻
+# Hello my friend ✌🏻
 
-Me chamo Lucas Alvarenga, sou desenvolvedor Android e iniciei na área da programação com apenas 13 anos 🙋🏻‍♂️. Ao longo desse tempo, realizei construção de alguns projetos utilizando Java e Kotlin. Venho me dedicando em aprimorar meus conhecimentos como Dev Android, aprendendo principais Bibliotecas e Arquiteturas utilizadas! 👨🏻‍💻 Além disso sou criador de conteúdo no instagram: [@Alvarenga.dev](https://www.instagram.com/alvarenga.dev/) e sou apaixonado por Língua de Sinais (Libras). 🤟🏻
+My name is Lucas, and I am a highly motivated and experienced Android developer with 3 years of dedicated experience in mobile development. I possess a strong ability to design, develop, and test Android applications, along with a deep knowledge of programming languages, libraries, and relevant frameworks in this field.
+<br><br>
+My passion for problem-solving drives me to find efficient solutions in Android development. I am recognized for my teamwork collaboration, self-management skills, and commitment to delivering exceptional results.
+<br><br>
+In addition to my work as a developer, I am also a content creator at @alvarenga.dev, where I share technology-related knowledge. I believe that sharing experiences and learnings is a valuable way to strengthen the tech community.
 
-No meu tempo livre, procuro aprender coisas novas: aprendo um pouco sobre UI/UX Design e criação de conteúdo! Também outras coisas além do profissonal como: aprender a tocar teclado, treinar o meu inglês e espanhol.
+# Here are some of the skills I possess:
+- Programming Languages: Java, Kotlin
+- Frameworks and Libraries: Android SDK, Retrofit, Hilt, Koin
+- Architectures: MVP, MVVM
+- Database: SQLite, Room
+- Code Versioning: Git
+- Development Tools: Android Studio, Gradle
+- Testing: JUnit5
+- Responsive Design and UI/UX Principles
 
+### My social networks 🖖🏻
 [![Instagram Badge](https://img.shields.io/badge/-@alvarenga.dev-8B008B?style=flat-square&labelColor=8B008B&logo=instagram&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://www.instagram.com/alvarenga.dev/)  [![Linkedin Badge](https://img.shields.io/badge/-llucasallvarenga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/llucasallvarenga/)](https://www.linkedin.com/in/llucasallvarenga/) [![Gmail Badge](https://img.shields.io/badge/-hello@alvarenga.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@alvarenga.dev)](mailto:hello@alvarenga.dev)
