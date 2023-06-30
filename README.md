@@ -6,7 +6,7 @@ I'm Lucas, a highly motivated and experienced Android developer with 3 years of 
 <br><br>
 My passion for problem-solving drives me to find efficient solutions in Android development. I am recognized for my teamwork collaboration, self-management skills, and commitment to delivering exceptional results.
 <br><br>
-In addition to my work as a developer, I am also a content creator at @alvarenga.dev, where I share technology-related knowledge. I believe that sharing experiences and learnings is a valuable way to strengthen the tech community.
+In addition to my work as a developer, I am also a content creator at @alvarenga.dev, where I share technology-related knowledge. I believe that sharing experiences and learning is a valuable way to strengthen the tech community.
 
 # Here are some of the skills I possess:
 - Programming Languages: Java, Kotlin
