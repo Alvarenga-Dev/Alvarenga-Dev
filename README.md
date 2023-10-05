@@ -16,6 +16,8 @@ In addition to my work as a developer, I am also a content creator at @alvarenga
 - Code Versioning: Git
 - Development Tools: Android Studio, Gradle
 - Testing: JUnit5
+- Clean Architecture
+- Compose
 - Responsive Design and UI/UX Principles
 
 ### My social networks 🖖🏻
