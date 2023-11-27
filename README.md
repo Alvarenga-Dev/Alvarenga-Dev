@@ -2,7 +2,7 @@
 
 ![LinkedIn](https://github.com/Alvarenga-Dev/Alvarenga-Dev/assets/42894096/23a29a8a-96ca-485d-a7ec-820612a36a8c)
 
-I'm Lucas, a highly motivated and experienced Android developer with 3 years of dedicated experience in mobile development. I possess a strong ability to design, develop, and test Android applications, along with a deep knowledge of programming languages, libraries, and relevant frameworks in this field.
+I'm Lucas, a highly motivated and experienced Android developer with 4 years of dedicated experience in mobile development. I possess a strong ability to design, develop, and test Android applications, along with a deep knowledge of programming languages, libraries, and relevant frameworks in this field.
 <br><br>
 My passion for problem-solving drives me to find efficient solutions in Android development. I am recognized for my teamwork collaboration, self-management skills, and commitment to delivering exceptional results.
 <br><br>
@@ -15,7 +15,7 @@ In addition to my work as a developer, I am also a content creator at @alvarenga
 - Database: SQLite, Room
 - Code Versioning: Git
 - Development Tools: Android Studio, Gradle
-- Testing: JUnit5
+- Testing: JUnit5 and JUnit4
 - Clean Architecture
 - Compose
 - Responsive Design and UI/UX Principles
