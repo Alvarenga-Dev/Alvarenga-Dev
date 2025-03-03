@@ -1,6 +1,4 @@
-# Hi, I'm Lucas✌🏻
-
-![LinkedIn](https://github.com/Alvarenga-Dev/Alvarenga-Dev/assets/42894096/23a29a8a-96ca-485d-a7ec-820612a36a8c)
+![LinkedIn](https://github.com/user-attachments/assets/98331fb2-c9c5-4812-ba64-0a205bcc359a)
 
 I'm Lucas, a highly motivated and experienced Android developer with 4 years of dedicated experience in mobile development. I possess a strong ability to design, develop, and test Android applications, along with a deep knowledge of programming languages, libraries, and relevant frameworks in this field.
 <br><br>
