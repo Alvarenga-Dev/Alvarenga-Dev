@@ -1,6 +1,6 @@
 ![LinkedIn](https://github.com/user-attachments/assets/98331fb2-c9c5-4812-ba64-0a205bcc359a)
 
-I'm Lucas, a highly motivated and experienced Android developer with 4 years of dedicated experience in mobile development. I possess a strong ability to design, develop, and test Android applications, along with a deep knowledge of programming languages, libraries, and relevant frameworks in this field.
+I'm Lucas, a highly motivated and experienced Android developer with 5 years of dedicated experience in mobile development. I possess a strong ability to design, develop, and test Android applications, along with a deep knowledge of programming languages, libraries, and relevant frameworks in this field.
 <br><br>
 My passion for problem-solving drives me to find efficient solutions in Android development. I am recognized for my teamwork collaboration, self-management skills, and commitment to delivering exceptional results.
 <br><br>
