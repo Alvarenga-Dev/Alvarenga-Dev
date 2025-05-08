@@ -7,12 +7,12 @@ My passion for problem-solving drives me to find efficient solutions in Android 
 In addition to my work as a developer, I am also a content creator at @alvarenga.dev, where I share technology-related knowledge. I believe that sharing experiences and learning is a valuable way to strengthen the tech community.
 
 # Here are some of the skills I possess:
-- Programming Languages: Java, Kotlin
-- Frameworks and Libraries: Android SDK, Retrofit, Hilt, Koin
-- Architectures: MVP, MVVM
+- Programming Languages: Java, Kotlin, Swift
+- Frameworks and Libraries: Android SDK, Retrofit, Hilt, Koin, iOS Development
+- Architectures: MVP, MVVM, MVI, MVVM-C
 - Database: SQLite, Room
 - Code Versioning: Git
-- Development Tools: Android Studio, Gradle
+- Development Tools: Android Studio, Gradle, Xcode
 - Testing: JUnit5 and JUnit4
 - Clean Architecture
 - Compose
